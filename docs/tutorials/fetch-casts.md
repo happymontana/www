@@ -15,7 +15,7 @@ Before writing code, you’ll need to set up a Node.js environment. You can use 
 2. Click on Create on the top left
 3. Choose Node.js when prompted  
 
-You’ll also need an Ethereum node to talk to the Facaster Registry contract. We recommend using [Alchemy](https://www.alchemy.com/), which is free. The steps below may be slightly different if you’re signing up for the first time: 
+You’ll also need an Ethereum node to talk to the Farcaster Registry contract. We recommend using [Alchemy](https://www.alchemy.com/), which is free. The steps below may be slightly different if you’re signing up for the first time: 
 
 1. Sign up on [Alchemy.com](http://www.alchemy.com), and complete onboarding
 2. Click on ‘Create a New App’ from your dashboard
